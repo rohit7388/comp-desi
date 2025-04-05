@@ -1,0 +1,3 @@
+scanf("Read the string");
+printf("Matters");
+printf("Hello");
