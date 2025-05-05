@@ -1,0 +1,13 @@
+my_var
+
+totalSum
+
+Hello
+
+World
+
+_notValid
+
+123abc
+
+_x1
